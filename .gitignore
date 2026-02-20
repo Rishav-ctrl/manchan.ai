@@ -1,0 +1,11 @@
+# Node dependencies
+node_modules/
+
+# Python environments
+venv/
+__pycache__/
+
+# AI Models & Data
+*.pt
+*.bin
+*.safetensors
